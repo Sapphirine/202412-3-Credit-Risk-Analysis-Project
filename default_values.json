@@ -1,0 +1,20 @@
+{
+    "credamount_770A": 200000.0,
+    "month_decision": 8,
+    "weekday_decision": 5,
+    "price_1097A": 30000.0,
+    "days30_165L": 1,
+    "days180_256L": 2,
+    "mean_maxdpdtolerance_577P": 0.0,
+    "mean_pmts_overdue_1140A": 0.0,
+    "mean_pmts_dpd_1073P": 0.0,
+    "homephncnt_628L": 1,
+    "mobilephncnt_593L": 4,
+    "numactivecreds_622L": 2,
+    "pmtnum_254L": 6,
+    "max_sex_738L": "Female",
+    "max_incometype_1044T": "Type A",
+    "mean_outstandingdebt_522A": 15000.0,
+    "max_totalamount_6A": 250000.0,
+    "max_empl_employedfrom_271D": 1.0
+}
